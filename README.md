@@ -1,3 +1,3 @@
 # practice-mvn-nexus-sonar
 
-sample practice 
+sample practice 2
